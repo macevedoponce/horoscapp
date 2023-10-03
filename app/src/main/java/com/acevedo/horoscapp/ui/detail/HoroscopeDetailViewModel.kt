@@ -35,3 +35,5 @@ class HoroscopeDetailViewModel @Inject constructor(private val getPredictionUseC
     }
 
 }
+
+// nos quedamos min 4.57.14 https://youtu.be/UaR7GSNACsM?t=17834
