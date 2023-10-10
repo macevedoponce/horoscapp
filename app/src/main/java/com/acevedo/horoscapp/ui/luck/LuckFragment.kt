@@ -166,5 +166,3 @@ class LuckFragment : Fragment() {
         return binding.root
     }
 }
-
-//Nos quedamos en min 6:43:17  https://youtu.be/UaR7GSNACsM?t=24197
